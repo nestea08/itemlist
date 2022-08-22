@@ -4795,7 +4795,7 @@
 			"defname": "BionicJaw"
 		},
 		{
-			"abr": ""молчаливый"челюстнойимплантат",
+			"abr": "молчаливыйчелюстнойимплантат",
 			"price": 583,
 			"category": "Бионические",
 			"defname": "SilentJaw"
@@ -6733,7 +6733,7 @@
 			"defname": "RE_Apparel_AllianceArmor"
 		},
 		{
-			"abr": ""усталость"",
+			"abr": "усталость",
 			"price": 181,
 			"category": "Одежда",
 			"defname": "RE_Apparel_Fatigues"
@@ -11539,7 +11539,7 @@
 			"defname": "GR_VelociwolfEggFertilized"
 		},
 		{
-			"abr": "dino"milk"",
+			"abr": "dinomilk",
 			"price": 5,
 			"category": "Животного происхождения",
 			"defname": "GR_DinoMilk"
@@ -14557,7 +14557,7 @@
 			"defname": "TableFaro"
 		},
 		{
-			"abr": "столдляигры"филепятьпальцев"",
+			"abr": "столдляигрыфилепятьпальцев",
 			"price": 205,
 			"category": "Мебель",
 			"defname": "TableFiveFingerFilet"
