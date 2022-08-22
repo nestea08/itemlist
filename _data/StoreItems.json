@@ -4243,7 +4243,7 @@
 			"defname": "Moyo_CryoBlaster"
 		},
 		{
-			"abr": "станция"глубокойсиневы"",
+			"abr": "станцияглубокойсиневы",
 			"price": 2500,
 			"category": "Производство",
 			"defname": "Moyo_DBS"
@@ -6781,49 +6781,49 @@
 			"defname": "RE_Apparel_ScienceUniform"
 		},
 		{
-			"abr": "штурмоваявинтовкаальянса"мститель"",
+			"abr": "штурмоваявинтовкаальянсамститель",
 			"price": 1908,
 			"category": "Оружие дальнего боя",
 			"defname": "RE_Gun_AllianceAssaultRifle"
 		},
 		{
-			"abr": "боеваявинтовкаальянса"виндикатор"",
+			"abr": "боеваявинтовкаальянсавиндикатор",
 			"price": 1908,
 			"category": "Оружие дальнего боя",
 			"defname": "RE_Gun_AllianceBattleRifle"
 		},
 		{
-			"abr": "дробовикальянса"катана"",
+			"abr": "дробовикальянсакатана",
 			"price": 1833,
 			"category": "Оружие дальнего боя",
 			"defname": "RE_Gun_AllianceShotgun"
 		},
 		{
-			"abr": "снайперскаявинтовкаальянса"богомол"",
+			"abr": "снайперскаявинтовкаальянсабогомол",
 			"price": 2350,
 			"category": "Оружие дальнего боя",
 			"defname": "RE_Gun_AllianceSniperRifle"
 		},
 		{
-			"abr": "smgальянса"буря"",
+			"abr": "smgальянсабуря",
 			"price": 1583,
 			"category": "Оружие дальнего боя",
 			"defname": "RE_Gun_AllianceSMG"
 		},
 		{
-			"abr": "пистолетальянса"хищник"",
+			"abr": "пистолетальянсахищник",
 			"price": 1233,
 			"category": "Оружие дальнего боя",
 			"defname": "RE_Gun_AlliancePistol"
 		},
 		{
-			"abr": "наручнаяпушкаальянса"фаланга"",
+			"abr": "наручнаяпушкаальянсафаланга",
 			"price": 1500,
 			"category": "Оружие дальнего боя",
 			"defname": "RE_Gun_AllianceHandcannon"
 		},
 		{
-			"abr": "противотанковаявинтовкаальянса"вдова"",
+			"abr": "противотанковаявинтовкаальянсавдова",
 			"price": 3433,
 			"category": "Оружие дальнего боя",
 			"defname": "RE_Gun_AllianceAntimaterielRifle"
@@ -6835,7 +6835,7 @@
 			"defname": "RE_Gun_AllianceRocketLauncher"
 		},
 		{
-			"abr": "цепнойдробовикальянса"гидра"",
+			"abr": "цепнойдробовикальянсагидра",
 			"price": 2542,
 			"category": "Оружие дальнего боя",
 			"defname": "RE_Gun_AllianceChainShotgun"
